@@ -1,0 +1,46 @@
+body {
+  font-family: "Helvetica",sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.background-image a {
+  font-size: 18px;
+  color: white;
+}
+
+.background-image {
+  background-image: url('/Users/jp/Desktop/Apple/Codecademy/projects/BroadwayProject/resources/images/the-flatiron-building.png');
+}
+
+.process h2 {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.process h3 {
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.process p {
+  font-size: 14px;
+}
+
+.background-image h2 {
+  font-weight: bold;
+  font-size: 23px;
+  color: white;
+}
+
+.footer,.footer a {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
